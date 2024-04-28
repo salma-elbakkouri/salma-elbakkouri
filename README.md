@@ -1,7 +1,7 @@
 ![banner](banner-img.png)
 
 <h1 align="center">Hi 👋, I'm Salma el bakkouri</h1>
-<h3 align="center">A Mobile developer based in Morocco</h3>
+<h3 align="center">A mobile developer based in Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-6353864-5264781.png?f=webp"/>
 
