@@ -7,15 +7,15 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" /> </p>
 
-- 🔭 I’m planning to learn **Game developement using Unity**
 
-- 🌱 I’m currently learning **3D animations using Three.js**
+- 🌱 Currently learning **3D animations using Three.js**
+
+- 🔭 Planning to learn **Game developement using Unity**
 
 - 💬 Ask me about **Android developement**
 
-- 📫 How to reach me **elbakkourisalmaa@gmail.com**
+- 📫 Reach me at **elbakkourisalmaa@gmail.com**
 
 
 
