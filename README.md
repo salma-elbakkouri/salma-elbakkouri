@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salma-elbakkouri&show_icons=true&locale=en" alt="salma-elbakkouri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-elbakkouri&" alt="salma-elbakkouri" /></p>
