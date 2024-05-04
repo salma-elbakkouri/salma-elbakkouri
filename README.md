@@ -1,7 +1,8 @@
 [![Banner](./banner-img.png)](https://github.com/salma-elbakkouri)
 
-<div>
-  <img   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=000000"/>
+![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=000000&bg_color=00000000)
+
+
   <p>I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and   Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life.</p></div>
 
 
