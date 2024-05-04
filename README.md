@@ -91,19 +91,11 @@
 <br><br>
 
 test
-
-<div style="display: flex; flex:1; flex-direction: row;">
-  <div style="padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=dark" alt="salma-elbakkouri's Top Languages"  />
-  </div>
-  <div style="padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=salma-elbakkouri&show_icons=true&theme=dark" alt="salma-elbakkouri's GitHub Stats"  />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salma-elbakkouri&theme=dark" alt="salma-elbakkouri's Contribution Streak"  />
-  </div>
+<div style="background-color: white; border-radius: 10px; padding: 10px; display: flex; flex-direction: row; overflow: hidden;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=dark" alt="salma-elbakkouri's Top Languages" style="border-radius: 10px; flex: 1; margin-right: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salma-elbakkouri&show_icons=true&theme=dark" alt="salma-elbakkouri's GitHub Stats" style="border-radius: 10px; flex: 1; margin-right: 5px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salma-elbakkouri&theme=dark" alt="salma-elbakkouri's Contribution Streak" style="border-radius: 10px; flex: 1;"/>
 </div>
-
 
 
 
