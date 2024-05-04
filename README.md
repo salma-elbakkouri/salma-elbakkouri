@@ -1,4 +1,4 @@
-
+[![Banner](./banner-img.png)](https://github.com/salma-elbakkouri)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" />
 
