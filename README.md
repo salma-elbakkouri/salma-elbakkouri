@@ -35,10 +35,10 @@
 
 </div>
 
-<hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 </br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 <div align="center">
   <a href="https://slillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,typescript"/><br>
@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=firebase,mysql,github,figma,photoshop,illustrator"/><br>
   </a>
 </div>
-
+</br>
 <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
