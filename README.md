@@ -1,3 +1,5 @@
+
+
 <img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" />
 
 <h1 align="center" >
@@ -6,7 +8,7 @@
   </a>
 </h1>
 <!--&color=00827c add this after +I'm+Salma+El+bakkouri; for color change-->
-<h3 align="center">A mobile developer based in Morocco</h3>
+<h3 align="center">a mobile developer based in Morocco</h3>
 
 <br/>
 
