@@ -18,7 +18,7 @@
 
 🎯 Planning to learn *Game development using Unity*
 
-❔ Ask me about *Android development , Javascript, React..*
+❔ Ask me about *Android development , Javascript..*
 
 </div>
 
