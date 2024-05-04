@@ -1,101 +1,48 @@
-<h1 align="center">Hi there, I'm Salma 👋</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" />
 
-<h3 align="center">A mobile developer based in Morocco</h3>
+<h1 align="center" >
+  <a  href="https://git.io/typing-svg">
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Salma+El+bakkouri;&color=00827c"/>
+  </a>
+</h1>
 
-<br>
+<h3 align="center">A Passionate mobile developer based in Morocco</h3>
 
-- 🌱 Currently learning **3D animations using Three.js**
+<br/>
 
-- 🔭 Planning to learn **Game development using Unity**
-
-- 💬 Ask me about **Android development**
-
-- 📫 Reach me at **elbakkourisalmaa@gmail.com**
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
- 
+<div align="center">
   
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-</p>
+🌱 Currently learning *3D animations using Three.js*
 
-<br><br>
+🔭 Planning to learn *Game development using Unity*
 
-test
-<div style="background-color: white; border-radius: 10px; padding: 10px; display: flex; flex-direction: row; overflow: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=dark" alt="salma-elbakkouri's Top Languages" style="border-radius: 10px; flex: 1; margin-right: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=salma-elbakkouri&show_icons=true&theme=dark" alt="salma-elbakkouri's GitHub Stats" style="border-radius: 10px; flex: 1; margin-right: 5px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salma-elbakkouri&theme=dark" alt="salma-elbakkouri's Contribution Streak" style="border-radius: 10px; flex: 1;"/>
+💬 Ask me about *Android development , Javascript, React..*
+
 </div>
 
+<div align="center">
+  <a href="mailto:elbakkourisalmaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/salma-el-bakkouri-b6a848283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://example.com/portfolio-not-available" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+</br>
+<div align="center">
+  <a href="https://slillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,typescript"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,flutter"/><br>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,github,figma,photoshop,illustrator"/><br>
+
+  </a>
 
