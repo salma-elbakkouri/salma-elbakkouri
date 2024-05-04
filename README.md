@@ -10,8 +10,6 @@
 <!--&color=00827c add this after +I'm+Salma+El+bakkouri; for color change-->
 <h3 align="center">a mobile developer based in Morocco</h3>
 
-<br/>
-
 <div align="center">
   
 💻 Currently learning *3D animations using Three.js*
