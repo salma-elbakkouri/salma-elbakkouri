@@ -1,10 +1,9 @@
 [![Banner](./banner-img.png)](https://github.com/salma-elbakkouri)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" />
-<br>
-    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&width=500&height=50&duration=3000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=000000"/>
 
-I'm a 21-year-old passionate mobile app developer with a knack for web development, specializing in Android apps using Java, React Native, and Flutter. With a strong foundation in JavaScript, React, CSS, and its frameworks, I'm very creative and love to create aesthetic tech solutions that come to life.
+<img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=3000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=000000"/>
+
+I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life.
 
 
 
@@ -44,6 +43,7 @@ I'm a 21-year-old passionate mobile app developer with a knack for web developme
 <br/><br/>
 <hr/>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" />
 
 
 
