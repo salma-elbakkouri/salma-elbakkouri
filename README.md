@@ -54,7 +54,7 @@
   <br/>
 <img align="center" height="200" width="450"   src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private-true&show_icons=true&theme=react&rank_icon-github&border_radius-10" alt="readme stats" /> 
 <br/><br/>
-<img align="center" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" />
+<img align="center" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=react&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" />
 <br/>
 </div>
 <br/><br/>
