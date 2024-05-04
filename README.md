@@ -9,7 +9,7 @@
 
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,flutter,swift,cs,cpp,dotnet,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,spring,flutter,swift,androidstudio,cs,cpp,dotnet,python,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
   </a>
   <br>
   
