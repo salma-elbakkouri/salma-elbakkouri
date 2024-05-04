@@ -2,10 +2,10 @@
 
 <h1 align="center" >
   <a  href="https://git.io/typing-svg">
-    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Salma+El+bakkouri;&color=00827c"/>
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Salma+El+bakkouri;"/>
   </a>
 </h1>
-
+<!--&color=00827c add this after +I'm+Salma+El+bakkouri; for color change-->
 <h3 align="center">A Passionate mobile developer based in Morocco</h3>
 
 <br/>
