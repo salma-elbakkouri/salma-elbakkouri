@@ -6,7 +6,7 @@
   </a>
 </h1>
 <!--&color=00827c add this after +I'm+Salma+El+bakkouri; for color change-->
-<h3 align="center">A Passionate mobile developer based in Morocco</h3>
+<h3 align="center">A mobile developer based in Morocco</h3>
 
 <br/>
 
