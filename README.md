@@ -25,13 +25,13 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
 
-  <a href="https://www.linkedin.com/in/salma-el-bakkouri-b6a848283/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/salma-el-bakkouri-b6a848283/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-<a href="https://example.com/portfolio-not-available" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" />
-</a>
+  <a href="https://example.com/portfolio-not-available" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"/>
+  </a>
 
 </div>
 
