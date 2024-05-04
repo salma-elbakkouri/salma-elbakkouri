@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:elbakkourisalmaa@gmail.com">
+  <a href="mailto:elbakkourisalmaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
 
@@ -30,7 +30,7 @@
   </a>
 
   <a href="https://example.com/portfolio-not-available" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"/>
   </a>
 </div>
 
