@@ -2,7 +2,7 @@
 
 <h1 align="center" >
   <a  href="https://git.io/typing-svg">
-    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Salma+El+bakkouri;"/>
+    <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;"/>
   </a>
 </h1>
 <!--&color=00827c add this after +I'm+Salma+El+bakkouri; for color change-->
@@ -12,11 +12,11 @@
 
 <div align="center">
   
-🌱 Currently learning *3D animations using Three.js*
+💻 Currently learning *3D animations using Three.js*
 
-🔭 Planning to learn *Game development using Unity*
+🎯 Planning to learn *Game development using Unity*
 
-💬 Ask me about *Android development , Javascript, React..*
+❔ Ask me about *Android development , Javascript, React..*
 
 </div>
 
