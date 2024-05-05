@@ -1,4 +1,3 @@
-[![Banner](./banner-img.png)](https://github.com/salma-elbakkouri)
 
 ![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
