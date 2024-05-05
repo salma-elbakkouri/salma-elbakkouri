@@ -16,9 +16,9 @@
 ## Stats 
   
 <div style="display:flex;flex-direction:row;justify-content:center;">
-    <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=nord&hide_border=true&border_radius=5" alt="streak stats" style="margin: 0" />
-  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private=true&show_icons=true&theme=nord&rank_icon=github&hide_border=true&border_radius=5" alt="readme stats" style="margin: 0" /> 
-  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+    <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=github_dark_dimmed&hide_border=true&border_radius=0" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=true&border_radius=0" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
 
 <br/>
