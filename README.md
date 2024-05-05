@@ -1,18 +1,20 @@
 
-![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+👋🏻;+I'm+Salma+El+bakkouri;&color=6e9eba)
+![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
-
-  <p>I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and   Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life.</p></div>
+## About me 🙌🏻
+I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using Java, React Native, and   Flutter. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life
 
 
 <br>
+
+## Languages Frameworks Tools ⚒
 
   <a href="https://slillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,spring,flutter,swift,androidstudio,cs,cpp,dotnet,python,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,postman,github,figma,photoshop,illustrator,wordpress"/><br>
   </a>
   <br>
   
-## Stats 
+## Statistics ⚡
   
 <div style="display:flex;flex-direction:row;justify-content:center;">
 <!--     <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=github_dark_dimmed&hide_border=true&border_radius=0" alt="streak stats" style="margin: 0" /> -->
@@ -21,7 +23,6 @@
 </div>
 
 <br/>
-<hr/>
 
 ## Reach me 📫
 <a href="mailto:elbakkourisalmaa@gmail.com" target="_blank">
