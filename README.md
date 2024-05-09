@@ -20,6 +20,10 @@ I'm a 21-year-old passionate mobile apps developer with a knack for web developm
 <!--     <img height="140"  src="https://streak-stats.demolab.com/?user=salma-elbakkouri&count private=true&theme=github_dark_dimmed&hide_border=true&border_radius=0" alt="streak stats" style="margin: 0" /> -->
   <img height="190"  src="https://github-readme-stats-salesp07.vercel.app/api?username=salma-elbakkouri&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide_border=true&border_radius=0" alt="readme stats" style="margin: 0" /> 
   <img height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salma-elbakkouri&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=salma-elbakkouri&theme=github_dark_dimmed&hide_border=true&border_radius=5&card_width=800">
+
+
 </div>
 
 <br/>
@@ -37,4 +41,6 @@ I'm a 21-year-old passionate mobile apps developer with a knack for web developm
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" />
 </a>
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=salma-elbakkouri&label=Profile%20views&color=0e75b6&style=flat" alt="salma-elbakkouri" /> -->
+
+
 
