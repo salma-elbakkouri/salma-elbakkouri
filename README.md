@@ -10,7 +10,7 @@ I'm a 21-year-old passionate mobile apps developer with a knack for web developm
 ## Languages Frameworks Tools ⚒
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,java,spring,flutter,swift,androidstudio,cs,dotnet,python,html,css,tailwind,bootstrap,sass,firebase,linux,mysql,postman,github,figma,photoshop,illustrator,wordpress"/><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,nodejs,npm,java,spring,flutter,swift,androidstudio,cs,dotnet,python,html,css,tailwind,bootstrap,sass,firebase,ubuntu,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
   </a>
   <br>
   
