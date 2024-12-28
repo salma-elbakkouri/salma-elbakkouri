@@ -2,7 +2,7 @@
 ![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
 ## About me 🙌🏻
-I'm a 21-year-old passionate mobile apps developer with a knack for web development, specializing in Android apps using React Native, and Java. With a strong foundation in JavaScript, React, CSS, and its famous frameworks like Tailwind CSS and Bootstrap, I'm very creative and love to create aesthetic tech solutions that come to life
+I'm a 21-year-old Master's student in Software Quality with skills in mobile and web development. I specialize in creating aesthetic tech solutions using React Native, JavaScript, React, and frameworks like Tailwind CSS and Bootstrap.
 
 
 <br>
@@ -10,7 +10,7 @@ I'm a 21-year-old passionate mobile apps developer with a knack for web developm
 ## Languages Frameworks Tools ⚒
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,npm,java,spring,flutter,swift,androidstudio,cs,dotnet,html,css,tailwind,bootstrap,sass,firebase,ubuntu,mysql,github,figma,photoshop,illustrator,wordpress"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,npm,java,androidstudio,cs,html,css,tailwind,bootstrap,sass,firebase,mysql,github,figma,photoshop,wordpress"/><br>
   </a> 
   <br>
   
