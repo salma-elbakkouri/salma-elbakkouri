@@ -2,7 +2,7 @@
 ![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
 ## About me 🙌🏻
-I'm a 21-year-old Master's student in Software Quality with skills in mobile and web development. I specialize in creating aesthetic tech solutions using React Native, JavaScript, React, and frameworks like Tailwind CSS and Bootstrap.
+I'm a 21-year-old Master's student in Software Quality with skills in mobile and web development. I love creating aesthetic tech solutions.
 
 
 <br>
