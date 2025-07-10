@@ -2,15 +2,14 @@
 ![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
 ## About me 🙌🏻
-I'm a 22-year-old master's student in software quality and a Java developer. I enjoy creating aesthetic solutions, love working with Figma, and I'm passionate about UX/UI design
-
+I'm a 22-year-old master's student in software quality, skilled in Java, JEE, and Spring Boot. Passionate about writing clean code, testing, and building scalable solutions.
 
 <br>
 
 ## Languages Frameworks Tools ⚒
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,npm,java,androidstudio,cs,html,css,tailwind,bootstrap,sass,firebase,mysql,github,figma,photoshop,wordpress"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,npm,dotnet,react,angular,typescript,html,css,androidstudio,firebase,mysql,git,github,gitlab,maven,figma"/><br>
   </a> 
   <br>
   
