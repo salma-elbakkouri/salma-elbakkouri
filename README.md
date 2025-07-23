@@ -2,7 +2,7 @@
 ![Light Theme](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&duration=4000&lines=Hi+There+;+I'm+Salma+El+bakkouri;&color=6e9eba)
 
 ## About me 🙌🏻
-I'm a 22-year-old master’s student in software quality, passionate about clean code, testing, and building fullstack web apps with modern technologies.
+I’m a 22-year-old Master’s student in Software Quality who enjoys writing clean code, testing, and building fullstack applications.
 
 <br>
 
