@@ -9,7 +9,7 @@ I’m a 22-year-old Master’s student in Software Quality who enjoys writing cl
 ## Languages Frameworks Tools ⚒
 
   <a href="https://slillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,npm,react,angular,typescript,html,css,androidstudio,firebase,mysql,git,github,gitlab,maven,figma"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,npm,react,typescript,html,css,androidstudio,firebase,mysql,git,github,gitlab,maven,figma"/><br>
   </a> 
   <br>
   
